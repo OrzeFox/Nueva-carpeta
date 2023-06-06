@@ -10,6 +10,47 @@ Estas operaciones se llevan a cabo utilizando lenguajes de consulta como SQL (St
 
 Una base de datos relacional organiza los datos en tablas relacionadas entre sí mediante claves primarias y externas, lo que proporciona una estructura flexible y eficiente para almacenar y recuperar información de manera confiable.
 
+2-Esta base de datos de MySQL se llama "mydb" y consta de varias tablas relacionadas entre sí.
+A continuacion son cada una de las tablas y sus columnas principales:
+
+.Tabla "user":
+
+Columnas: id, username, email, password, create_time, credit_balance.
+Esta tabla almacena información de los usuarios, como su nombre de usuario, correo electrónico, contraseña, fecha de creación y saldo de crédito.
+
+.Tabla "content":
+
+Columnas: id, title, description, price, author_id, updated_at, categorie, dificulty, sales, aproved.
+Esta tabla almacena información sobre los contenidos, como el título, descripción, precio, autor, fecha de actualización, categoría, dificultad, ventas y aprobación.
+
+.Tabla "comments":
+
+Columnas: id, content_id, text, user_id.
+Esta tabla almacena los comentarios realizados en los contenidos, relacionando el comentario con el contenido y el usuario correspondiente.
+
+.Tabla "purchase":
+
+Columnas: id, user_id, purchasecol.
+Esta tabla registra las compras realizadas por los usuarios, relacionando la compra con el usuario correspondiente.
+
+.Tabla "purchase_has_content":
+
+Columnas: id, purchase_id, content_id.
+Esta tabla establece la relación entre las compras y los contenidos, registrando qué contenidos se incluyeron en cada compra.
+
+.Tabla "rating":
+
+Columnas: id, content_id, user_id, value.
+Esta tabla almacena las calificaciones dadas por los usuarios a los contenidos, relacionando la calificación con el contenido y el usuario correspondiente.
+
+.Tabla "wallet":
+
+Columnas: id, balance, user_id.
+Esta tabla registra el saldo de la billetera de cada usuario.
+Cada tabla tiene sus respectivas claves primarias y restricciones de clave externa para mantener la integridad de los datos y establecer relaciones entre las tablas.
+
+
+
 2- Algunas de las consultas que podemos realizar:
 
 -Obtener el título y la descripción de los cursos cuyo precio es mayor a 20:
