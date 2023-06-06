@@ -13,8 +13,7 @@ Una base de datos relacional organiza los datos en tablas relacionadas entre sí
 2-Esta base de datos de MySQL se llama "u-know" y consta de varias tablas relacionadas entre sí.
 A continuacion son cada una de las tablas y sus columnas principales:
 
-.Tabla "user":
-
+## User
 | Columna        | Descripción                             |
 |----------------|-----------------------------------------|
 | id             | Identificador único del usuario          |
@@ -24,37 +23,71 @@ A continuacion son cada una de las tablas y sus columnas principales:
 | create_time    | Fecha y hora de creación del usuario     |
 | credit_balance | Saldo de crédito del usuario             |
 
+## Categoria
+| Columna        | Descripción                             |
+|----------------|-----------------------------------------|
+| id             | Identificador único de la categoría      |
+| categorie_name | Nombre de la categoría                   |
 
-.Tabla "content":
+## Dificultad
+| Columna         | Descripción                             |
+|-----------------|-----------------------------------------|
+| id              | Identificador único de la dificultad     |
+| dificulty_level | Nivel de dificultad                      |
 
-Columnas: id, title, description, price, author_id, updated_at, categorie, dificulty, sales, aproved.
-Esta tabla almacena información sobre los contenidos, como el título, descripción, precio, autor, fecha de actualización, categoría, dificultad, ventas y aprobación.
+## Contenido
+| Columna            | Descripción                             |
+|--------------------|-----------------------------------------|
+| id                 | Identificador único del contenido        |
+| author_id          | Identificador único del autor            |
+| title              | Título del contenido                     |
+| description        | Descripción del contenido                |
+| price              | Precio del contenido                     |
+| updated_at         | Fecha y hora de actualización del contenido |
+| categorie_id       | Identificador único de la categoría      |
+| dificulty_id       | Identificador único de la dificultad     |
+| sales              | Cantidad de ventas del contenido         |
+| aproved            | Aprobación del contenido (0 o 1)         |
 
-.Tabla "comments":
+## Comentario
+| Columna            | Descripción                             |
+|--------------------|-----------------------------------------|
+| id                 | Identificador único del comentario       |
+| content_comments_id| Identificador único del contenido asociado al comentario |
+| text               | Texto del comentario                     |
+| user_id            | Identificador único del usuario que realizó el comentario |
+| created_at         | Fecha y hora de creación del comentario   |
 
-Columnas: id, content_id, text, user_id.
-Esta tabla almacena los comentarios realizados en los contenidos, relacionando el comentario con el contenido y el usuario correspondiente.
+## Compra
+| Columna        | Descripción                             |
+|----------------|-----------------------------------------|
+| id             | Identificador único de la compra         |
+| user_id        | Identificador único del usuario que realizó la compra |
+| purchaseDate   | Fecha y hora de la compra                |
 
-.Tabla "purchase":
+## Relacion Compra contenido
+| Columna        | Descripción                             |
+|----------------|-----------------------------------------|
+| id             | Identificador único de la relación entre compra y contenido |
+| purchase_id    | Identificador único de la compra asociada |
+| content_id     | Identificador único del contenido asociado |
 
-Columnas: id, user_id, purchasecol.
-Esta tabla registra las compras realizadas por los usuarios, relacionando la compra con el usuario correspondiente.
+## Rating
+| Columna            | Descripción                             |
+|--------------------|-----------------------------------------|
+| id                 | Identificador único del rating           |
+| content_rating_id  | Identificador único del contenido asociado al rating |
+| user_rating_id     | Identificador único del usuario que realizó el rating |
+| value              | Valor del rating (0 a 5)                 |
 
-.Tabla "purchase_has_content":
-
-Columnas: id, purchase_id, content_id.
-Esta tabla establece la relación entre las compras y los contenidos, registrando qué contenidos se incluyeron en cada compra.
-
-.Tabla "rating":
-
-Columnas: id, content_id, user_id, value.
-Esta tabla almacena las calificaciones dadas por los usuarios a los contenidos, relacionando la calificación con el contenido y el usuario correspondiente.
-
-.Tabla "wallet":
-
-Columnas: id, balance, user_id.
-Esta tabla registra el saldo de la billetera de cada usuario.
-Cada tabla tiene sus respectivas claves primarias y restricciones de clave externa para mantener la integridad de los datos y establecer relaciones entre las tablas.
+## Mensajes
+| Columna        | Descripción                             |
+|----------------|-----------------------------------------|
+| id             | Identificador único del mensaje          |
+| sender_id      | Identificador único del remitente del mensaje |
+| receiver_id    | Identificador único del destinatario del mensaje |
+| content        | Contenido del mensaje                    |
+| timestamp      | Fecha y hora del mensaje                 |
 
 2- Algunas de las consultas que podemos realizar:
 
