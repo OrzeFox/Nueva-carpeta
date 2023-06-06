@@ -1,6 +1,16 @@
 # U-know-latin
+1-CONCEPTO DE BASES DE DATOS RELACIONAL:
 
-1- Algunas de las consultas que podemos realizar:
+La base de datos relacional utiliza un conjunto de tablas relacionadas entre sí mediante claves primarias y claves externas. 
+La clave primaria es un campo único que identifica de manera exclusiva cada registro en una tabla,
+mientras que la clave externa establece una relación entre dos tablas basada en el valor de una columna común.
+
+Las operaciones más comunes realizadas en una base de datos relacional son la inserción, consulta, actualización y eliminación de datos.
+Estas operaciones se llevan a cabo utilizando lenguajes de consulta como SQL (Structured Query Language).
+
+Una base de datos relacional organiza los datos en tablas relacionadas entre sí mediante claves primarias y externas, lo que proporciona una estructura flexible y eficiente para almacenar y recuperar información de manera confiable.
+
+2- Algunas de las consultas que podemos realizar:
 
 -Obtener el título y la descripción de los cursos cuyo precio es mayor a 20:
             SELECT title, description FROM content WHERE price > 20; 
