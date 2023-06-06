@@ -15,8 +15,15 @@ A continuacion son cada una de las tablas y sus columnas principales:
 
 .Tabla "user":
 
-Columnas: id, username, email, password, create_time, credit_balance.
-Esta tabla almacena información de los usuarios, como su nombre de usuario, correo electrónico, contraseña, fecha de creación y saldo de crédito.
+| Columna        | Descripción                             |
+|----------------|-----------------------------------------|
+| id             | Identificador único del usuario          |
+| username       | Nombre de usuario del usuario            |
+| email          | Correo electrónico del usuario           |
+| password       | Contraseña del usuario                   |
+| create_time    | Fecha y hora de creación del usuario     |
+| credit_balance | Saldo de crédito del usuario             |
+
 
 .Tabla "content":
 
