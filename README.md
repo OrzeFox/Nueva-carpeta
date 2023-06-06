@@ -13,6 +13,10 @@ Una base de datos relacional organiza los datos en tablas relacionadas entre sí
 2-Esta base de datos de MySQL se llama "u-know" y consta de varias tablas relacionadas entre sí.
 A continuacion son cada una de las tablas y sus columnas principales:
 
+![](schema/schemav2.png)
+
+
+
 ## User
 | Columna        | Descripción                             |
 |----------------|-----------------------------------------|
