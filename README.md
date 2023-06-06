@@ -49,8 +49,6 @@ Columnas: id, balance, user_id.
 Esta tabla registra el saldo de la billetera de cada usuario.
 Cada tabla tiene sus respectivas claves primarias y restricciones de clave externa para mantener la integridad de los datos y establecer relaciones entre las tablas.
 
-
-
 2- Algunas de las consultas que podemos realizar:
 
 -Obtener el título y la descripción de los cursos cuyo precio es mayor a 20:
