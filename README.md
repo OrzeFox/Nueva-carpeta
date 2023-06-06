@@ -13,6 +13,10 @@ Una base de datos relacional organiza los datos en tablas relacionadas entre sí
 2-Esta base de datos de MySQL se llama "u-know" y consta de varias tablas relacionadas entre sí.
 A continuacion son cada una de las tablas y sus columnas principales:
 
+![](schema/schemav2.png)
+
+
+
 ## User
 | Columna        | Descripción                             |
 |----------------|-----------------------------------------|
@@ -95,10 +99,6 @@ A continuacion son cada una de las tablas y sus columnas principales:
 ```sql
             SELECT title, description FROM content WHERE price > 150; 
 ```
--Obtener el número total de cursos por categoría:
-```sql
-            SELECT categorie, COUNT(*) as total_cursos FROM content GROUP BY categorie;
-```
 -Obtener el título y la descripción de los cursos aprobados de nivel “Difícil”:
 ```sql
             SELECT title, description FROM content WHERE aproved = 1 AND dificulty = 'Difícil'; 
@@ -107,7 +107,6 @@ A continuacion son cada una de las tablas y sus columnas principales:
 ```sql
             SELECT id, title, price fROM content ORDER BY (price) asc;
 ```
-
 -Actualiza el valor del campo price a 500 cambia el precio del contenido con el ID 2 y lo establece en 500.
 ```sql
             UPDATE `mydb`.`content` SET `price` = '500' WHERE (`id` = '2');
