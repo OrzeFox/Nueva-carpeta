@@ -52,8 +52,9 @@ Cada tabla tiene sus respectivas claves primarias y restricciones de clave exter
 2- Algunas de las consultas que podemos realizar:
 
 -Obtener el título y la descripción de los cursos cuyo precio es mayor a 20:
+```sql
             SELECT title, description FROM content WHERE price > 20; 
-  
+```
 -Obtener el número total de cursos por categoría:
             SELECT categorie, COUNT(*) as total_cursos FROM content GROUP BY categorie;
 
