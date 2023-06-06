@@ -1,51 +1,51 @@
 Título,Descripción,Categoría,Dificultad,Autor
-Introducción a Python,Un curso introductorio para aprender los conceptos básicos de programación utilizando Python.,Python,Fácil,23
-Desarrollo web con HTML y CSS,Aprende a crear y diseñar sitios web utilizando HTML y CSS.,Desarrollo web,Moderada,15
-Algoritmos y estructuras de datos,Explora algoritmos comunes y estructuras de datos utilizadas en programación.,Algoritmos,Moderada,42
-Aprendiendo Java,Un curso completo para aprender a programar en Java desde cero.,Java,Moderada,8
-Desarrollo de aplicaciones móviles con React Native,Descubre cómo crear aplicaciones móviles multiplataforma utilizando React Native.,Desarrollo móvil,Moderada,32
-Machine Learning con Python,Aprende a aplicar técnicas de Machine Learning utilizando Python y librerías populares.,Machine Learning,Difícil,19
-Programación en C++,Un curso completo para dominar la programación en C++ y desarrollar aplicaciones eficientes.,C++,Difícil,5
-Fundamentos de la programación orientada a objetos,Descubre los conceptos fundamentales de la programación orientada a objetos y su implementación en diferentes lenguajes.,Programación orientada a objetos,Moderada,38
-Desarrollo web con JavaScript,Aprende a crear sitios web interactivos utilizando JavaScript y sus librerías más populares.,Desarrollo web,Moderada,7
-Análisis de datos con Python,Descubre cómo utilizar Python y sus librerías para analizar y visualizar datos de manera efectiva.,Análisis de datos,Moderada,27
-Seguridad informática y hacking ético,Un curso introductorio sobre seguridad informática y técnicas de hacking ético para proteger sistemas y redes.,Seguridad informática,Difícil,16
-Desarrollo de aplicaciones móviles con Swift,Aprende a crear aplicaciones móviles para iOS utilizando el lenguaje Swift y el entorno de desarrollo de Apple.,Desarrollo móvil,Moderada,3
-Programación funcional con Haskell,"Descubre los conceptos de programación funcional y aprende a programar en Haskell, un lenguaje funcional puro.",Programación funcional,Difícil,10
-Desarrollo web con Ruby on Rails,Aprende a construir aplicaciones web utilizando el framework Ruby on Rails y el lenguaje Ruby.,Desarrollo web,Moderada,44
-Inteligencia Artificial en el reconocimiento de patrones,Explora cómo utilizar técnicas de Inteligencia Artificial para el reconocimiento de patrones en diferentes contextos.,Inteligencia Artificial,Difícil,25
-Programación en C#,Un curso completo para aprender a programar en C# y desarrollar aplicaciones para el ecosistema de Microsoft.,C#,Moderada,13
-Desarrollo de aplicaciones móviles con Java,Descubre cómo crear aplicaciones móviles para Android utilizando el lenguaje de programación Java.,Desarrollo móvil,Moderada,36
-Programación en PHP,Aprende a programar en PHP y desarrollar aplicaciones web dinámicas y escalables.,PHP,Moderada,14
-Desarrollo web con Vue.js,Descubre cómo construir aplicaciones web interactivas utilizando el framework Vue.js y sus características modernas.,Desarrollo web,Moderada,2
-Inteligencia Artificial en el procesamiento de lenguaje natural,Aprende a utilizar técnicas de procesamiento de lenguaje natural utilizando Inteligencia Artificial.,Procesamiento de lenguaje natural,Difícil,21
-Programación en Kotlin,Un curso completo para aprender a programar en Kotlin y desarrollar aplicaciones para Android.,Kotlin,Moderada,30
-Desarrollo de aplicaciones web con Django,Aprende a construir aplicaciones web utilizando el framework Django y el lenguaje de programación Python.,Desarrollo web,Moderada,41
-Programación en JavaScript,Un curso completo para aprender a programar en JavaScript y desarrollar aplicaciones web interactivas.,JavaScript,Moderada,11
-Desarrollo de videojuegos con Unity,Aprende a desarrollar juegos utilizando el motor de desarrollo Unity y el lenguaje de programación C#.,Desarrollo de videojuegos,Moderada,34
-Inteligencia Artificial en la visión por computadora,Explora cómo utilizar técnicas de Inteligencia Artificial para el procesamiento y análisis de imágenes y videos.,Visión por computadora,Difícil,17
-Programación en Ruby,Un curso completo para aprender a programar en Ruby y desarrollar aplicaciones web elegantes y fáciles de mantener.,Ruby,Moderada,26
-Desarrollo web con ASP.NET,Descubre cómo construir aplicaciones web utilizando el framework ASP.NET y el lenguaje de programación C#.,Desarrollo web,Moderada,20
-Inteligencia Artificial en chatbots,Aprende a desarrollar chatbots inteligentes utilizando técnicas de Inteligencia Artificial.,Chatbots,Moderada,35
-Programación en Python,Un curso completo para aprender a programar en Python y desarrollar aplicaciones de todo tipo.,Python,Moderada,6
-Desarrollo de aplicaciones móviles con Flutter,Descubre cómo crear aplicaciones móviles multiplataforma utilizando el framework Flutter y el lenguaje Dart.,Desarrollo móvil,Moderada,46
-Aprendiendo SQL,Un curso introductorio para aprender a trabajar con bases de datos y el lenguaje SQL.,Bases de datos,Fácil,37
-Desarrollo web con Angular,Aprende a construir aplicaciones web utilizando el framework Angular y sus características modernas.,Desarrollo web,Moderada,9
-Inteligencia Artificial en reconocimiento de imágenes,Explora cómo utilizar técnicas de Inteligencia Artificial para el reconocimiento y clasificación de imágenes.,Reconocimiento de imágenes,Difícil,24
-Programación en Swift,"Un curso completo para aprender a programar en Swift y desarrollar aplicaciones para iOS, macOS y otros dispositivos de Apple.",Swift,Moderada,40
-Desarrollo de aplicaciones web con Flask,Aprende a construir aplicaciones web utilizando el framework Flask de Python y su enfoque minimalista.,Desarrollo web,Moderada,48
-Inteligencia Artificial en análisis de datos,Descubre cómo utilizar técnicas de Inteligencia Artificial para el análisis y procesamiento de datos.,Análisis de datos,Difícil,4
-Programación en TypeScript,"Aprende a programar en TypeScript, un superset de JavaScript que agrega tipado estático y características adicionales.",TypeScript,Moderada,12
-Desarrollo de aplicaciones móviles con Xamarin,Descubre cómo crear aplicaciones móviles multiplataforma utilizando el framework Xamarin y el lenguaje C#.,Desarrollo móvil,Moderada,29
-Inteligencia Artificial en el procesamiento de texto,Explora cómo utilizar técnicas de Inteligencia Artificial para el procesamiento y análisis de texto.,Procesamiento de texto,Difícil,49
-Programación en Rust,"Aprende a programar en Rust, un lenguaje de programación moderno y seguro.",Rust,Moderada,18
-Desarrollo web con Laravel,Descubre cómo construir aplicaciones web utilizando el framework Laravel de PHP y su enfoque elegante y expresivo.,Desarrollo web,Moderada,39
-Inteligencia Artificial en juegos,Explora cómo utilizar técnicas de Inteligencia Artificial para crear juegos inteligentes y desafiantes.,Inteligencia Artificial,Difícil,45
-Programación en Go,"Aprende a programar en Go, un lenguaje de programación eficiente y de alto rendimiento desarrollado por Google.",Go,Moderada,31
-Desarrollo de aplicaciones móviles con Kotlin,Descubre cómo crear aplicaciones móviles para Android utilizando el lenguaje de programación Kotlin.,Desarrollo móvil,Moderada,22
-Desarrollo web con ASP.NET Core,Aprende a construir aplicaciones web utilizando el framework ASP.NET Core y el lenguaje de programación C#.,Desarrollo web,Moderada,1
-Inteligencia Artificial en el procesamiento de voz,Explora cómo utilizar técnicas de Inteligencia Artificial para el procesamiento y análisis de voz.,Procesamiento de voz,Difícil,50
-Programación en Java,Un curso completo para aprender a programar en Java y desarrollar aplicaciones para una amplia variedad de plataformas.,Java,Moderada,28
-Desarrollo de aplicaciones móviles con React Native,Aprende a crear aplicaciones móviles multiplataforma utilizando el framework React Native y JavaScript.,Desarrollo móvil,Moderada,33
-Desarrollo web con Express.js,Descubre cómo construir aplicaciones web utilizando el framework Express.js y su enfoque minimalista y flexible.,Desarrollo web,Moderada,47
-Inteligencia Artificial en la optimización de algoritmos,Explora cómo utilizar técnicas de Inteligencia Artificial para optimizar algoritmos y mejorar su eficiencia.,Optimización de algoritmos,Difícil,43
+Introducción a Python,Un curso introductorio para aprender los conceptos básicos de programación utilizando Python.,Python,4,23
+Desarrollo web con HTML y CSS,Aprende a crear y diseñar sitios web utilizando HTML y CSS.,Desarrollo web,2,15
+Algoritmos y estructuras de datos,Explora algoritmos comunes y estructuras de datos utilizadas en programación.,Algoritmos,3,42
+Aprendiendo Java,Un curso completo para aprender a programar en Java desde cero.,Java,5,8
+Desarrollo de aplicaciones móviles con React Native,Descubre cómo crear aplicaciones móviles multiplataforma utilizando React Native.,Desarrollo móvil,1,32
+Machine Learning con Python,Aprende a aplicar técnicas de Machine Learning utilizando Python y librerías populares.,Machine Learning,3,19
+Programación en C++,Un curso completo para dominar la programación en C++ y desarrollar aplicaciones eficientes.,C++,2,5
+Fundamentos de la programación orientada a objetos,Descubre los conceptos fundamentales de la programación orientada a objetos y su implementación en diferentes lenguajes.,Programación orientada a objetos,4,38
+Desarrollo web con JavaScript,Aprende a crear sitios web interactivos utilizando JavaScript y sus librerías más populares.,Desarrollo web,3,7
+Análisis de datos con Python,Descubre cómo utilizar Python y sus librerías para analizar y visualizar datos de manera efectiva.,Análisis de datos,1,27
+Seguridad informática y hacking ético,Un curso introductorio sobre seguridad informática y técnicas de hacking ético para proteger sistemas y redes.,Seguridad informática,2,16
+Desarrollo de aplicaciones móviles con Swift,Aprende a crear aplicaciones móviles para iOS utilizando el lenguaje Swift y el entorno de desarrollo de Apple.,Desarrollo móvil,5,3
+Programación funcional con Haskell,"Descubre los conceptos de programación funcional y aprende a programar en Haskell, un lenguaje funcional puro.",Programación funcional,4,10
+Desarrollo web con Ruby on Rails,Aprende a construir aplicaciones web utilizando el framework Ruby on Rails y el lenguaje Ruby.,Desarrollo web,3,44
+Inteligencia Artificial en el reconocimiento de patrones,Explora cómo utilizar técnicas de Inteligencia Artificial para el reconocimiento de patrones en diferentes contextos.,Inteligencia Artificial,1,25
+Programación en C#,Un curso completo para aprender a programar en C# y desarrollar aplicaciones para el ecosistema de Microsoft.,C#,2,13
+Desarrollo de aplicaciones móviles con Java,Descubre cómo crear aplicaciones móviles para Android utilizando el lenguaje de programación Java.,Desarrollo móvil,5,36
+Programación en PHP,Aprende a programar en PHP y desarrollar aplicaciones web dinámicas y escalables.,PHP,4,14
+Desarrollo web con Vue.js,Descubre cómo construir aplicaciones web interactivas utilizando el framework Vue.js y sus características modernas.,Desarrollo web,1,2
+Inteligencia Artificial en el procesamiento de lenguaje natural,Aprende a utilizar técnicas de procesamiento de lenguaje natural utilizando Inteligencia Artificial.,Procesamiento de lenguaje natural,3,21
+Programación en Kotlin,Un curso completo para aprender a programar en Kotlin y desarrollar aplicaciones para Android.,Kotlin,2,30
+Desarrollo de aplicaciones web con Django,Aprende a construir aplicaciones web utilizando el framework Django y el lenguaje de programación Python.,Desarrollo web,5,41
+Programación en JavaScript,Un curso completo para aprender a programar en JavaScript y desarrollar aplicaciones web interactivas.,JavaScript,4,11
+Desarrollo de videojuegos con Unity,Aprende a desarrollar juegos utilizando el motor de desarrollo Unity y el lenguaje de programación C#.,Desarrollo de videojuegos,1,34
+Inteligencia Artificial en la visión por computadora,Explora cómo utilizar técnicas de Inteligencia Artificial para el procesamiento y análisis de imágenes y videos.,Visión por computadora,3,17
+Programación en Ruby,Un curso completo para aprender a programar en Ruby y desarrollar aplicaciones web elegantes y fáciles de mantener.,Ruby,2,26
+Desarrollo web con ASP.NET,Descubre cómo construir aplicaciones web utilizando el framework ASP.NET y el lenguaje de programación C#.,Desarrollo web,5,20
+Inteligencia Artificial en chatbots,Aprende a desarrollar chatbots inteligentes utilizando técnicas de Inteligencia Artificial.,Chatbots,4,35
+Programación en Python,Un curso completo para aprender a programar en Python y desarrollar aplicaciones de todo tipo.,Python,2,6
+Desarrollo de aplicaciones móviles con Flutter,Descubre cómo crear aplicaciones móviles multiplataforma utilizando el framework Flutter y el lenguaje Dart.,Desarrollo móvil,3,46
+Aprendiendo SQL,Un curso introductorio para aprender a trabajar con bases de datos y el lenguaje SQL.,Bases de datos,1,37
+Desarrollo web con Angular,Aprende a construir aplicaciones web utilizando el framework Angular y sus características modernas.,Desarrollo web,5,9
+Inteligencia Artificial en reconocimiento de imágenes,Explora cómo utilizar técnicas de Inteligencia Artificial para el reconocimiento y clasificación de imágenes.,Reconocimiento de imágenes,4,24
+Programación en Swift,"Un curso completo para aprender a programar en Swift y desarrollar aplicaciones para iOS, macOS y otros dispositivos de Apple.",Swift,3,40
+Desarrollo de aplicaciones web con Flask,Aprende a construir aplicaciones web utilizando el framework Flask de Python y su enfoque minimalista.,Desarrollo web,1,48
+Inteligencia Artificial en análisis de datos,Descubre cómo utilizar técnicas de Inteligencia Artificial para el análisis y procesamiento de datos.,Análisis de datos,2,4
+Programación en TypeScript,"Aprende a programar en TypeScript, un superset de JavaScript que agrega tipado estático y características adicionales.",TypeScript,4,12
+Desarrollo de aplicaciones móviles con Xamarin,Descubre cómo crear aplicaciones móviles multiplataforma utilizando el framework Xamarin y el lenguaje C#.,Desarrollo móvil,2,29
+Inteligencia Artificial en el procesamiento de texto,Explora cómo utilizar técnicas de Inteligencia Artificial para el procesamiento y análisis de texto.,Procesamiento de texto,3,49
+Programación en Rust,"Aprende a programar en Rust, un lenguaje de programación moderno y seguro.",Rust,5,18
+Desarrollo web con Laravel,Descubre cómo construir aplicaciones web utilizando el framework Laravel de PHP y su enfoque elegante y expresivo.,Desarrollo web,1,39
+Inteligencia Artificial en juegos,Explora cómo utilizar técnicas de Inteligencia Artificial para crear juegos inteligentes y desafiantes.,Inteligencia Artificial,3,45
+Programación en Go,"Aprende a programar en Go, un lenguaje de programación eficiente y de alto rendimiento desarrollado por Google.",Go,2,31
+Desarrollo de aplicaciones móviles con Kotlin,Descubre cómo crear aplicaciones móviles para Android utilizando el lenguaje de programación Kotlin.,Desarrollo móvil,4,22
+Desarrollo web con ASP.NET Core,Aprende a construir aplicaciones web utilizando el framework ASP.NET Core y el lenguaje de programación C#.,Desarrollo web,3,1
+Inteligencia Artificial en el procesamiento de voz,Explora cómo utilizar técnicas de Inteligencia Artificial para el procesamiento y análisis de voz.,Procesamiento de voz,1,50
+Programación en Java,Un curso completo para aprender a programar en Java y desarrollar aplicaciones para una amplia variedad de plataformas.,Java,2,28
+Desarrollo de aplicaciones móviles con React Native,Aprende a crear aplicaciones móviles multiplataforma utilizando el framework React Native y JavaScript.,Desarrollo móvil,5,33
+Desarrollo web con Express.js,Descubre cómo construir aplicaciones web utilizando el framework Express.js y su enfoque minimalista y flexible.,Desarrollo web,4,47
+Inteligencia Artificial en la optimización de algoritmos,Explora cómo utilizar técnicas de Inteligencia Artificial para optimizar algoritmos y mejorar su eficiencia.,Optimización de algoritmos,1,43
